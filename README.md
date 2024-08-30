@@ -1,18 +1,16 @@
-## Hi there 👋
+<div>
+  <img align="right" src="img/plushieboxer.png" style="height: 30em; float: right; margin-right: 0em; z-index: 1;">
+</div>
 
-<!--
-**DarkraiNemo/DarkraiNemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Howdy! I'm darkgrey_! :brazil:	
+I'm a furred blueberry dragon that *try* to code [ sometimes ].
 
-Here are some ideas to get you started:
+- 🎨 I'm an artist on Bluesky;
+- 💻 I "code" some things; *[ does Minecraft command block counts? ]*
+- 🕹️ I like to play a lot of games; *[ that are available to me ]*
+- 🐉 I'm "kinda" nerd on some things;
+- 🎵 My music taste is everything;
+- 👤 If you want to check my info: [Click here!](https://darkgreyinfo.carrd.co/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-im working on it wait. but go check my links, there's something in there.
+## About here
+I may upload some of the files in here. Mostly of them will be notes or codes to backup.
