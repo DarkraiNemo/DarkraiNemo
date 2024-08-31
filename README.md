@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="img/" style="height: 30em; float: right; margin-right: 0em; z-index: 1;">
+  <img align="right" src="img/plushieboxer.png" style="height: 30em; float: right; margin-right: 0em; z-index: 1;">
 </div>
 
 ## Howdy! I'm darkgrey_! :brazil:	
