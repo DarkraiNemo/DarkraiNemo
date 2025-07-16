@@ -12,4 +12,8 @@ I'm a furred blueberry dragon that *try* to code [ sometimes ].
 - 🎵 My music taste is everything;
 - 👤 If you want to check my info: [Click here!](https://darkgreyinfo.carrd.co/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,robloxstudio,html," />
+  </a>
+</p>
