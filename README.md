@@ -11,3 +11,5 @@ I'm a furred blueberry dragon that *try* to code [ sometimes ].
 - 🐉 I'm "kinda" nerd on some things;
 - 🎵 My music taste is everything;
 - 👤 If you want to check my info: [Click here!](https://darkgreyinfo.carrd.co/)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
